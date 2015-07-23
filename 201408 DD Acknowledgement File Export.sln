@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{D183A3D8-5FD8-494B-B014-37F57B35E655}") = "201408 DD Acknowledgement File Export", "201408 DD Acknowledgement File Export\201408 DD Acknowledgement File Export.dtproj", "{15556CDD-CD9B-4C3A-A7B8-B40C60DDAE42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15556CDD-CD9B-4C3A-A7B8-B40C60DDAE42}.Development|Default.ActiveCfg = Development
+		{15556CDD-CD9B-4C3A-A7B8-B40C60DDAE42}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
